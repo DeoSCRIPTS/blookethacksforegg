@@ -2371,7 +2371,7 @@
         
     });
     let img = new Image;
-    img.src = "https://raw.githubusercontent.com/Blooket-Council/Blooket-Cheats/main/autoupdate/timestamps/mobileGui.png?" + Date.now();
+    img.src = "https://raw.githubusercontent.com/thefuck/timestamps/mobileGui.png?" + Date.now();
     img.crossOrigin = "Anonymous";
     img.onload = function() {
         const c = document.createElement("canvas");
